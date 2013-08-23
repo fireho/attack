@@ -1,5 +1,6 @@
 #= require jquery
-
+# TO BE COMMENTED!
+#
 do($=jQuery) ->
   $ ->
     setTimeout ->
